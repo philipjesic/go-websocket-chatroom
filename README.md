@@ -1,4 +1,4 @@
-# 📚 WebSocket Chat App (Go + HTML/JavaScript)
+# WebSocket Chat App (Go + HTML/JavaScript)
 
 A simple real-time chat application using a Go WebSocket server and a frontend written in plain HTML and JavaScript.
 
